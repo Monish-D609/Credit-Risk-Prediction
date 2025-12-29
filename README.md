@@ -106,6 +106,5 @@ This project was built as a hands-on learning exercise to understand the full li
 
 📬 Contact
 If you have feedback or suggestions, feel free to reach out or open an issue.
-https://www.linkedin.com/in/monish-d-3414b031b/
 [LinkedIn](https://www.linkedin.com/in/monish-d-3414b031b/)
 
